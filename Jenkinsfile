@@ -14,7 +14,7 @@ pipeline {
 
     // Define environment variables
     environment {
-        APP_NAME = "BINDESH_APP"
+        APP_NAME = "Onkar_APP"
         APP_ENV  = "PRODUCTION"
     }
 
